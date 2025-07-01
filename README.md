@@ -24,3 +24,20 @@ In conclusion, this work demonstrates the feasibility of applying deep learning 
 
 **Keywords:** computer vision, fruit load, deep learning, regression, object detection, occlusion,
 yield estimation, convolutional networks, EfficientNet, YOLO, RT-DETR.
+
+
+## License and Academic Integrity Notice
+
+This repository contains the code, data (partially), and documentation associated with the Final Degree Project (TFG) entitled:
+
+**"Application of Computer Vision Techniques for Estimating Fruit Agricultural Production"**  
+Author: Miguel Quiroga Campos
+University: Universidad de Huelva (UHU)  
+Degree: Grado en Ingeniería Informática
+Year: 2025
+
+All content in this repository is the intellectual property of the author and was officially submitted and defended at the University of Huelva. Any reproduction, use, or distribution of this work must cite the original author.
+
+🔒 **Plagiarism or unauthorized academic use of this material constitutes a violation of academic integrity and may lead to legal or institutional consequences.**
+
+This repository is shared solely for academic, educational, and non-commercial research purposes.
